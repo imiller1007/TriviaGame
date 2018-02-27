@@ -1,0 +1,71 @@
+@font-face {
+    font-family: dollar;
+    src: url(../fonts/dollar.ttf);
+}
+body{
+    background-color: red;
+}
+
+#heading{
+    font-family: dollar;
+    text-align: center;
+    background-color: #b6ffb5;
+    color: #5aa859;
+    border-color: #5aa859;
+    border-width: 5px;
+    border-style: groove;
+    
+}
+#timeLeft{
+    color:white;
+}
+
+#time{
+    color: white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:blue;
+    font-weight: bold;
+}
+
+#countdown{
+    background-color: blue;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    position: sticky;
+    top: 0px;
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.question{
+    background-color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#butt{
+    text-align: center;
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#result{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #b6ffb5;
+    color: #5aa859;
+    border-color: #5aa859;
+    border-width: 5px;
+    border-style: groove;
+}
+
+#score{
+    font-family: dollar;
+    color:#386d37
+}
+
